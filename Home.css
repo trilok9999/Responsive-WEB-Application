@@ -37,6 +37,19 @@ article img {
 .aside-right{
     padding-bottom: 40px;
 padding-top: 40px;
+
+
+}
+
+.aside-right-top div {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.aside-right-top a{
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 .aside-right a{
     color: black;
