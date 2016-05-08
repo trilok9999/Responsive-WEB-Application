@@ -160,6 +160,7 @@ padding-top: 40px;
 }
 @media(min-width:1200px){
     .container-lg-height{
+<<<<<<< HEAD
         display: block;
         padding-left: 0px;
         padding-right: 0px;
@@ -175,6 +176,9 @@ padding-top: 40px;
 @media(min-width:1200px){
     .container-lg-height{
         display: table;
+=======
+        display: none;
+>>>>>>> e4d6c397e8eadeb620c3b6b94c91b80cf6d73dac
         padding-left: 0px;
         padding-right: 0px;
     }
